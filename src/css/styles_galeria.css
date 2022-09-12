@@ -622,10 +622,13 @@ height: 50vh;
         right: 2em;
         bottom: 50px;
     }
+    #container-visible{
+        top: 15;
+    }
     #modal-info{
         grid-template-areas:
         "titulo titulo "
-        "foto info"
+        "foto info";
     }
     .modal-photo-img{
         width: 100%;
@@ -690,7 +693,8 @@ height: 50vh;
         width: 1.5em;
     }
     #modal-info-info{
-        margin-top: -46px;
+        /* margin-top: -75px; */
+        margin-top: -2em;
         height: 17em;
         border-bottom: 5px solid #06d69e9d;
     }
