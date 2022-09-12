@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SuperJav/app-banco-imagenes.git"
+    "url": "git+https://github.com/SuperJav/app-Banco-imagen"
   },
   "author": "javi super",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SuperJav/app-banco-imagenes/issues"
+    "url": "https://github.com/SuperJav/app-Banco-imagen/issues"
   },
-  "homepage": "https://github.com/SuperJav/app-banco-imagenes#readme",
+  "homepage": "https://github.com/SuperJav/app-Banco-imagen#readme",
   "keywords": [],
   "devDependencies": {
     "os-browserify": "^0.3.0",
