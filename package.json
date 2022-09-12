@@ -1,0 +1,37 @@
+{
+  "name": "banco-imagen",
+  "version": "1.0.0",
+  "description": "pagina para buscar cualquier imagen",
+  "main": "./src/js/api.js",
+  "targets": {
+    "main": false
+  },
+  "source": "src/html/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/html/index.html",
+    "build": "parcel build src/html/index.html",
+    "start": "parcel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperJav/app-banco-imagenes.git"
+  },
+  "author": "javi super",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuperJav/app-banco-imagenes/issues"
+  },
+  "homepage": "https://github.com/SuperJav/app-banco-imagenes#readme",
+  "keywords": [],
+  "devDependencies": {
+    "os-browserify": "^0.3.0",
+    "parcel": "^2.7.0",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "pexels": "^1.3.0"
+  }
+}
